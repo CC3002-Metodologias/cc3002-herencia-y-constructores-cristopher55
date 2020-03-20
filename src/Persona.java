@@ -2,7 +2,12 @@ public class Persona {
     protected String nombre;
     protected String ocupacion;
     protected int edad;
-
+    public Persona(String nombre,String ocupacion, int edad) {
+    	
+    	
+    	
+    	
+    }
     public void comer() {
         System.out.println("Ñom Ñom comida casera");
     }
